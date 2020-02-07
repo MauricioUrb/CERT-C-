@@ -1,0 +1,11 @@
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\bin\Debug\netcoreapp3.1\ej5-Herencia.exe
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\bin\Debug\netcoreapp3.1\ej5-Herencia.deps.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\bin\Debug\netcoreapp3.1\ej5-Herencia.runtimeconfig.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\bin\Debug\netcoreapp3.1\ej5-Herencia.runtimeconfig.dev.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\bin\Debug\netcoreapp3.1\ej5-Herencia.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\bin\Debug\netcoreapp3.1\ej5-Herencia.pdb
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\obj\Debug\netcoreapp3.1\ej5-Herencia.csprojAssemblyReference.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\obj\Debug\netcoreapp3.1\ej5-Herencia.AssemblyInfoInputs.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\obj\Debug\netcoreapp3.1\ej5-Herencia.AssemblyInfo.cs
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\obj\Debug\netcoreapp3.1\ej5-Herencia.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej5-Herencia\obj\Debug\netcoreapp3.1\ej5-Herencia.pdb

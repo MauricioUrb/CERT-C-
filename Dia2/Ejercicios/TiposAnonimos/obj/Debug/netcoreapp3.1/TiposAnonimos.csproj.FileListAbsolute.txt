@@ -1,0 +1,10 @@
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\bin\Debug\netcoreapp3.1\TiposAnonimos.exe
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\bin\Debug\netcoreapp3.1\TiposAnonimos.deps.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\bin\Debug\netcoreapp3.1\TiposAnonimos.runtimeconfig.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\bin\Debug\netcoreapp3.1\TiposAnonimos.runtimeconfig.dev.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\bin\Debug\netcoreapp3.1\TiposAnonimos.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\bin\Debug\netcoreapp3.1\TiposAnonimos.pdb
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\obj\Debug\netcoreapp3.1\TiposAnonimos.AssemblyInfoInputs.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\obj\Debug\netcoreapp3.1\TiposAnonimos.AssemblyInfo.cs
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\obj\Debug\netcoreapp3.1\TiposAnonimos.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\TiposAnonimos\obj\Debug\netcoreapp3.1\TiposAnonimos.pdb

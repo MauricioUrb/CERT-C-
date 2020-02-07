@@ -1,0 +1,11 @@
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\bin\Debug\netcoreapp3.1\ej6-ClasesAbstractas.exe
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\bin\Debug\netcoreapp3.1\ej6-ClasesAbstractas.deps.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\bin\Debug\netcoreapp3.1\ej6-ClasesAbstractas.runtimeconfig.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\bin\Debug\netcoreapp3.1\ej6-ClasesAbstractas.runtimeconfig.dev.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\bin\Debug\netcoreapp3.1\ej6-ClasesAbstractas.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\bin\Debug\netcoreapp3.1\ej6-ClasesAbstractas.pdb
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\obj\Debug\netcoreapp3.1\ej6-ClasesAbstractas.csprojAssemblyReference.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\obj\Debug\netcoreapp3.1\ej6-ClasesAbstractas.AssemblyInfoInputs.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\obj\Debug\netcoreapp3.1\ej6-ClasesAbstractas.AssemblyInfo.cs
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\obj\Debug\netcoreapp3.1\ej6-ClasesAbstractas.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Día2\ej6-ClasesAbstractas\obj\Debug\netcoreapp3.1\ej6-ClasesAbstractas.pdb
