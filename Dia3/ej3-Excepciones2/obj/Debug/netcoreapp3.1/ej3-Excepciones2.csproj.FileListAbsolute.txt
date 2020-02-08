@@ -1,0 +1,11 @@
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\bin\Debug\netcoreapp3.1\ej3-Excepciones2.exe
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\bin\Debug\netcoreapp3.1\ej3-Excepciones2.deps.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\bin\Debug\netcoreapp3.1\ej3-Excepciones2.runtimeconfig.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\bin\Debug\netcoreapp3.1\ej3-Excepciones2.runtimeconfig.dev.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\bin\Debug\netcoreapp3.1\ej3-Excepciones2.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\bin\Debug\netcoreapp3.1\ej3-Excepciones2.pdb
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\obj\Debug\netcoreapp3.1\ej3-Excepciones2.csprojAssemblyReference.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\obj\Debug\netcoreapp3.1\ej3-Excepciones2.AssemblyInfoInputs.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\obj\Debug\netcoreapp3.1\ej3-Excepciones2.AssemblyInfo.cs
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\obj\Debug\netcoreapp3.1\ej3-Excepciones2.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej3-Excepciones2\obj\Debug\netcoreapp3.1\ej3-Excepciones2.pdb

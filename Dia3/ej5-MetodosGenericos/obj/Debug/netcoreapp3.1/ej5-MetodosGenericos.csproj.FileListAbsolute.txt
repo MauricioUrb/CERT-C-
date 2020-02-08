@@ -1,0 +1,11 @@
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\bin\Debug\netcoreapp3.1\ej5-MetodosGenericos.exe
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\bin\Debug\netcoreapp3.1\ej5-MetodosGenericos.deps.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\bin\Debug\netcoreapp3.1\ej5-MetodosGenericos.runtimeconfig.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\bin\Debug\netcoreapp3.1\ej5-MetodosGenericos.runtimeconfig.dev.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\bin\Debug\netcoreapp3.1\ej5-MetodosGenericos.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\bin\Debug\netcoreapp3.1\ej5-MetodosGenericos.pdb
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\obj\Debug\netcoreapp3.1\ej5-MetodosGenericos.csprojAssemblyReference.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\obj\Debug\netcoreapp3.1\ej5-MetodosGenericos.AssemblyInfoInputs.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\obj\Debug\netcoreapp3.1\ej5-MetodosGenericos.AssemblyInfo.cs
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\obj\Debug\netcoreapp3.1\ej5-MetodosGenericos.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej5-MetodosGenericos\obj\Debug\netcoreapp3.1\ej5-MetodosGenericos.pdb

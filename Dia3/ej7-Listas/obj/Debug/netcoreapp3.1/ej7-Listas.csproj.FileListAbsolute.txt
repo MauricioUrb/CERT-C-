@@ -1,0 +1,11 @@
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\bin\Debug\netcoreapp3.1\ej7-Listas.exe
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\bin\Debug\netcoreapp3.1\ej7-Listas.deps.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\bin\Debug\netcoreapp3.1\ej7-Listas.runtimeconfig.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\bin\Debug\netcoreapp3.1\ej7-Listas.runtimeconfig.dev.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\bin\Debug\netcoreapp3.1\ej7-Listas.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\bin\Debug\netcoreapp3.1\ej7-Listas.pdb
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\obj\Debug\netcoreapp3.1\ej7-Listas.csprojAssemblyReference.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\obj\Debug\netcoreapp3.1\ej7-Listas.AssemblyInfoInputs.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\obj\Debug\netcoreapp3.1\ej7-Listas.AssemblyInfo.cs
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\obj\Debug\netcoreapp3.1\ej7-Listas.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\ej7-Listas\obj\Debug\netcoreapp3.1\ej7-Listas.pdb

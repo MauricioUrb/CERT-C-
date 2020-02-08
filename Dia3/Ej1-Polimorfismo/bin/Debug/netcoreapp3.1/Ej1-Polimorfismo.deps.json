@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ej1-Polimorfismo/1.0.0": {
+        "runtime": {
+          "Ej1-Polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej1-Polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

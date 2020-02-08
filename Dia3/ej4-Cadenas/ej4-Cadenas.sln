@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej4-Cadenas", "ej4-Cadenas.csproj", "{2A839EE2-228D-4D4F-BBB3-15C44E54A27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A839EE2-228D-4D4F-BBB3-15C44E54A27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A839EE2-228D-4D4F-BBB3-15C44E54A27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A839EE2-228D-4D4F-BBB3-15C44E54A27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A839EE2-228D-4D4F-BBB3-15C44E54A27D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {621827C4-4B17-4F67-811E-3C73A56229F9}
+	EndGlobalSection
+EndGlobal
