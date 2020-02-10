@@ -1,0 +1,10 @@
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\bin\Debug\netcoreapp3.1\ej2.exe
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\bin\Debug\netcoreapp3.1\ej2.deps.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\bin\Debug\netcoreapp3.1\ej2.runtimeconfig.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\bin\Debug\netcoreapp3.1\ej2.runtimeconfig.dev.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\bin\Debug\netcoreapp3.1\ej2.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\bin\Debug\netcoreapp3.1\ej2.pdb
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\obj\Debug\netcoreapp3.1\ej2.AssemblyInfoInputs.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\obj\Debug\netcoreapp3.1\ej2.AssemblyInfo.cs
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\obj\Debug\netcoreapp3.1\ej2.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Dia3\Tarea3-Serie\ej2\obj\Debug\netcoreapp3.1\ej2.pdb
