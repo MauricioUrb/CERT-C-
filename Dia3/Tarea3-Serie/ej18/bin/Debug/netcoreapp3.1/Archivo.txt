@@ -1,0 +1,3 @@
+Se está creando un archivo.
+Esta es otra línea.
+Esta será otra línea.
