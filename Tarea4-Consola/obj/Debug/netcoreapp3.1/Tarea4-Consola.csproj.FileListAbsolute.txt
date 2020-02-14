@@ -1,0 +1,11 @@
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\bin\Debug\netcoreapp3.1\Tarea4-Consola.exe
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\bin\Debug\netcoreapp3.1\Tarea4-Consola.deps.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\bin\Debug\netcoreapp3.1\Tarea4-Consola.runtimeconfig.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\bin\Debug\netcoreapp3.1\Tarea4-Consola.runtimeconfig.dev.json
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\bin\Debug\netcoreapp3.1\Tarea4-Consola.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\bin\Debug\netcoreapp3.1\Tarea4-Consola.pdb
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\obj\Debug\netcoreapp3.1\Tarea4-Consola.csprojAssemblyReference.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\obj\Debug\netcoreapp3.1\Tarea4-Consola.AssemblyInfoInputs.cache
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\obj\Debug\netcoreapp3.1\Tarea4-Consola.AssemblyInfo.cs
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\obj\Debug\netcoreapp3.1\Tarea4-Consola.dll
+F:\Ing Mau\CERT\Curso 2 Programación orientada a la seguridad\5. Programación orientado a objetos\Tarea4-Consola\obj\Debug\netcoreapp3.1\Tarea4-Consola.pdb
